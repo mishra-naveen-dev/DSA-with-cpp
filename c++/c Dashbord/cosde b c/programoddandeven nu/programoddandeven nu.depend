@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1658682402 source:n:\cosde b c\programoddandeven nu\main.cpp
+	<iostream>
+
+1659709859 source:n:\basic c program.cpp\wapaprogramtofinddiameter,circumferenceareaofcircle.cpp
+	<stdio.h>
+

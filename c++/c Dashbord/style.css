@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+.box1{
+    background-color: black;
+    height: 25vh;
+    width: 25vw;
+    display: grid;
+    flex-direction: column;
+    padding: 23px 23px;
+    margin: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+.box2{
+    background-color: rgb(154, 32, 32);
+    height: 25vh;
+    width: 25vw;
+    padding: 23px 23px;
+    margin: 25px;
+      display: grid;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    height:100vh;
+    width:100%;
+    background-color: lightgoldenrodyellow;
+}

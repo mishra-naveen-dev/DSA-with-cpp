@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655311611 source:n:\cosde b c\um 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
